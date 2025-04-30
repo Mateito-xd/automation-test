@@ -2,7 +2,7 @@ name: CI/CD - Spring Boot Test automation
 
 on:
   push:
-    branches: [ master ]
+    branches: [ main ]
 
 jobs:
   build:
